@@ -1,3 +1,4 @@
-requests
-cerebras-cloud-sdk
-fake-useragent
+curl_cffi>=0.5.9
+pydantic>=2.0
+rich>=10.0
+requests>=2.20
